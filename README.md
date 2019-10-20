@@ -1,2 +1,2 @@
-# spring-start
-Exemple of Spring, Unit Tests and java programming.
+# spring-basic
+Sample of Spring Api with Sql Server
